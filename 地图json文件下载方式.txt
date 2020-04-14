@@ -1,0 +1,12 @@
+博客地址：https://blog.csdn.net/zqian1994/article/details/89149271
+
+全球，中国地图，省会json文件：https://github.com/apache/incubator-echarts/tree/master/map/json
+
+各县区json文件下载地址：http://datav.aliyun.com/tools/atlas/#&lat=33.521903996156105&lng=104.29849999999999&zoom=4
+
+自定义地图形状等，可参考geojson：http://geojson.io/#map=11/35.5683/110.6007
+
+
+
+全国、省、区县的json下载：https://hxkj.vip/demo/echartsMap/
+
