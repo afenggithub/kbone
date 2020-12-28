@@ -1,0 +1,8 @@
+query_iot_data_oilwell_indicatordiagram.orderby = 'dateTime';//按时间排序  正序
+query_iot_data_oilwell_indicatordiagram.orderbydesc = 'dateTime';//按时间排序 倒叙
+
+查询时间段的方式：待定
+
+数字上标和下标：º ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
+
+
